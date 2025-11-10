@@ -22,8 +22,10 @@ title: "Wild Magic Cube"
 description: "A weekly cube event in Western Mass"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/creative.jpg"
+#url: "https://wildmagiccube.github.io"
+logo: "/images/nexus-small.png"
 date_format: "%B %-d, %Y"
+#background-image: "/images/blacksand.jpg"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
