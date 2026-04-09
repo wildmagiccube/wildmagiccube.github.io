@@ -22,11 +22,11 @@ p.c {
 
 ![freyalise]({{ '/images/freyalise.png' | absolute_url }}){: .align-left}
 ## Thursday night cube drafts in Hadley, MA
-<p>We aim to foster an inclusive environment for social interaction and friendly competition. All experience levels welcome! <a href="https://luckypaper.co/what-is-a-cube/">Learn about the cube format.</a></p>
+<p>We aim to foster an inclusive, social environment and friendly competition. All experience levels are welcome, and no cards of your own are needed! <a href="https://luckypaper.co/what-is-a-cube/">Learn about the cube format.</a></p>
 
 ## Time and Place
 <p>Join us on Thursdays nights at X9 Games in Hadley, MA (Hampshire Mall, by the food court).</p>
-<p>Draft fires at 6PM.</p>
+<p><strong>Draft fires at 6PM.</strong></p>
 
 ## Contact
 We communicate using X9 Games Discord server. Look for the #cube-draft-night channel.
