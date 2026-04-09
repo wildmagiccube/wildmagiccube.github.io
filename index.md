@@ -29,7 +29,7 @@ p.c {
 <p><strong>Draft fires at 6PM.</strong></p>
 
 ## Contact
-We communicate using X9 Games Discord server. Look for the #cube-draft-night channel.
+We communicate using the X9 Games Discord server. Look for us in the #cube-draft-night channel.
 
 <br>
 # Cubes 
@@ -53,7 +53,7 @@ We communicate using X9 Games Discord server. Look for the #cube-draft-night cha
 
 ![creative]({{ '/images/creative-small.png' | absolute_url }}){: .align-right}
 <p class="a"><a href="https://cubecobra.com/cube/overview/thestrictlyworsecube">Strictly Worse</a>
-<br>This cube is a homage to and visual feast for cards left behind by the tides of time and power creep.</p>
+<br>This cube is a homage and visually appealing showcase for the cards left behind by the tides of time and power creep.</p>
 <br>
 <br>
 
