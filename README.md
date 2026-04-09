@@ -8,3 +8,8 @@ Theme is borrowed from: https://github.com/mmistakes/so-simple-theme
 >bundle install
 
 >bundle exec jekyll serve
+
+# Guide
+
+index.md has the main landing page
+_config.yml has the website configuration including page headers

@@ -22,15 +22,15 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Weekly cube drafts in Western Mass" />
 <meta property="og:description" content="Weekly cube drafts in Western Mass" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<link rel="canonical" href="http://localhost:4000/index.md.bak" />
+<meta property="og:url" content="http://localhost:4000/index.md.bak" />
 <meta property="og:site_name" content="Wild Magic Cube Group" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Wild Magic Cube" />
 <meta name="twitter:site" content="@" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Weekly cube drafts in Western Mass","headline":"Wild Magic Cube","name":"Wild Magic Cube Group","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/images/nexus-small.png"}},"url":"http://localhost:4000/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Weekly cube drafts in Western Mass","headline":"Wild Magic Cube","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/images/nexus-small.png"}},"url":"http://localhost:4000/index.md.bak"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -86,7 +86,7 @@
     
     
       
-        <h1 class="site-title animated fadeIn"><a href="/">Wild Magic Cube Group</a></h1>
+        <div class="site-title animated fadeIn"><a href="/">Wild Magic Cube Group</a></div>
       
       <p class="site-description animated fadeIn" itemprop="description">Weekly cube drafts in Western Mass</p>
     
@@ -106,60 +106,23 @@
         
       </header>
       <div class="page-content">
-        <head>
-<style>
-p.a {
-  text-align-last: right;
-}
+        ![freyalise](http://localhost:4000/images/freyalise.png){: .align-left}
+# Weekly event in Western Mass
+<p>We aim to foster an inclusive environment for social interaction and friendly competition.</p>
+<p>We collectively learn and improve at Magic together as a community, lowering the emotional stakes of the entire process.</p>
+<p>Avoiding a tournament structure promotes positive interactions and improves accessibility to newer players.</p>
 
-p.b {
-  text-align-last: center;
-}
-
-p.c {
-  text-align-last: justify;
-}
-</style>
-</head>
-
-<p><img src="http://localhost:4000/images/freyalise.png" alt="freyalise" class="align-left" /></p>
-<h2 id="thursday-night-cube-drafts-in-hadley-ma">Thursday night cube drafts in Hadley, MA</h2>
-<p>We aim to foster an inclusive environment for social interaction and friendly competition. All experience levels welcome! <a href="https://luckypaper.co/what-is-a-cube/">Learn about the cube format.</a></p>
-
-<h2 id="time-and-place">Time and Place</h2>
+# Time and Place
 <p>Join us on Thursdays nights at X9 Games in Hadley, MA (Hampshire Mall, by the food court).</p>
 <p>Draft fires at 6PM.</p>
 
-<h2 id="contact">Contact</h2>
-<p>We communicate using X9 Games Discord server. Look for the #cube-draft-night channel.</p>
-
-<p><br /></p>
-<h1 id="cubes">Cubes</h1>
-<p><img src="http://localhost:4000/images/creative-small.png" alt="creative" class="align-left" /></p>
-<p><a href="https://cubecobra.com/cube/overview/wildmagic">Wild Magic</a>
-<br />An evocative, wholly unique environment that re-examines the role of color and synergy in Magic.</p>
-<p><br />
-<br /></p>
-
-<p><img src="http://localhost:4000/images/creative-small.png" alt="creative" class="align-right" /></p>
-<p class="a"><a href="https://cubecobra.com/cube/overview/dominarish">Dominarish Legends</a>
-<br />A thematic love letter to booster draft-style, limited fundamentals gameplay.</p>
-<p><br />
-<br /></p>
-
-<p><img src="http://localhost:4000/images/creative-small.png" alt="creative" class="align-left" /></p>
-<p><a href="https://cubecobra.com/cube/list/1f76add7-722e-4e2c-bc5f-7d371afa5ed9">100 Bone Saws</a>
-<br />There are 100 Bone Saws.</p>
-<p><br />
-<br /></p>
-
-<p><img src="http://localhost:4000/images/creative-small.png" alt="creative" class="align-right" /></p>
-<p class="a"><a href="https://cubecobra.com/cube/overview/thestrictlyworsecube">Strictly Worse</a>
-<br />This cube is a homage to and visual feast for cards left behind by the tides of time and power creep.</p>
-<p><br />
-<br /></p>
-
-<h3 id="and-many-more-including-varieties-of-well-loved-cube-staples-like-vintage-peasant-pauper-and-set-cubes">…and many more, including varieties of well-loved cube staples like Vintage, Peasant, Pauper, and set cubes!</h3>
+# Cubes 
+![creative](http://localhost:4000/images/creative-small.png){: .align-left}
+[The eponymous Wild Magic Cube](https://cubecobra.com/cube/overview/wildmagic "Wild Magic Cube")
+<p>...and many more!</p>
+<br>
+# Contact
+We communicate using X9 Games Discord server. Look for the #cube-draft-night channel.
 
 
 
